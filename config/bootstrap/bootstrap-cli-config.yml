@@ -67,6 +67,12 @@ bootstrap:
               - cdf-group: cdf:all:read
                 idp-source-id: cebe7fa1-47ce-4e69-bd91-1a53a2c9ed0a
                 idp-source-name: bootcamp-53-test-all-read
+              - cdf-group: cdf:oee:owner
+                idp-source-id: ae77b9ac-350d-4fc6-8494-af11c6cdc4b0
+                idp-source-name: bootcamp-53-test-oee-owner
+              - cdf-group: cdf:oee:read
+                idp-source-id: 93a63f37-f1fb-4e5c-a4ca-c47cf3d4d000
+                idp-source-name: bootcamp-53-test-oee-read
 
         - cdf-project: cdf-bootcamp-53-prod
           mappings:
