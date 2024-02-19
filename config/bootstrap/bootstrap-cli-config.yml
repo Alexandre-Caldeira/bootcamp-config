@@ -85,10 +85,10 @@ bootstrap:
               - cdf-group: cdf:all:read
                 idp-source-id: 92cf1c9d-3b79-49e8-80d4-6c1f4ef30345
                 idp-source-name: bootcamp-53-prod-all-read
-              - cdf-group: cdf:oee:owner
+              - cdf-group: cdf:uc:001:oee:owner
                 idp-source-id: 99ddac4d-cb7e-4f18-8d06-15ca4cb304ef
                 idp-source-name: bootcamp-53-prod-uc-001-oee-owner
-              - cdf-group: cdf:oee:read
+              - cdf-group: cdf:uc:001:oee:read
                 idp-source-id: d0bdbd0e-9f06-4181-b809-2d4863f4d0f4
                 idp-source-name: bootcamp-53-prod-uc-001-oee-read
 
