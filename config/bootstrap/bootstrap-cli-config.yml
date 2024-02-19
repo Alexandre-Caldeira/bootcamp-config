@@ -74,6 +74,7 @@ bootstrap:
                 idp-source-id: 93a63f37-f1fb-4e5c-a4ca-c47cf3d4d000
                 idp-source-name: bootcamp-53-test-uc-001-oee-read
 
+
         - cdf-project: cdf-bootcamp-53-prod
           mappings:
               - cdf-group: cdf:root
