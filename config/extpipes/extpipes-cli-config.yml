@@ -52,7 +52,7 @@ rawdbs:
       rawtables:
           - rawtable-name: datapoints
             pipelines:
-                - source: opcua
+                - source: ice-cream-api
                   schedule: On trigger
                   contacts:
                       - name: Alexandre Caldeira
